@@ -1,5 +1,5 @@
 // ✅ BASE URL (LOCAL BACKEND)
-export const BASE_URL = "http://localhost:5000/api";
+export const BASE_URL = "https://task-manager-mern-2mqy.onrender.com/api";
 
 // ✅ ALL API ENDPOINTS
 export const API_PATHS = {
